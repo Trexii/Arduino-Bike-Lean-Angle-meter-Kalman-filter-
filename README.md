@@ -8,7 +8,7 @@ The project uses a **Kalman filter** to fuse accelerometer and gyroscope data, r
 ## ✨ Features
 - Real-time **lean angle measurement** using accelerometer + gyroscope  
 - **Kalman filter fusion** for drift-free and stable output  
-- Dynamic **OLED dial display** (~60 FPS refresh rate)  
+- Dynamic **OLED dial display** (~30 FPS refresh rate)  
 - Shows **maximum left and right lean angles**  
 - **Auto calibration** of neutral position at startup  
 - Flickering **lean warning** above ±30°  
